@@ -11,19 +11,29 @@ namespace Assignment1
 		// Start method
 		public void Start()
 		{
-			ReadAlbumInfo();
+			ReadAlbumName();
+			ReadArtistName();
+			ReadTracks();
 			DisplayAlbumInfo();
 		}
 
-		// Method to read album information
-		private void ReadAlbumInfo()
+		// Method to read album name
+		private void ReadAlbumName()
 		{
 			Console.WriteLine("Enter the album name:");
 			albumName = Console.ReadLine();
+		}
 
+		// Method to read artist's name
+		private void ReadArtistName()
+		{
 			Console.WriteLine("Enter the artist's name:");
 			artistName = Console.ReadLine();
+		}
 
+		// Method to read number of tracks
+		private void ReadTracks()
+		{
 			Console.WriteLine("Enter the number of tracks in the album:");
 			numOfTracks = int.Parse(Console.ReadLine());
 		}
@@ -37,5 +47,4 @@ namespace Assignment1
 			Console.WriteLine($"Number of Tracks: {numOfTracks}");
 		}
 	}
-
 }

@@ -1,3 +1,4 @@
+using System;
 
 namespace Assignment1
 {
@@ -7,7 +8,7 @@ namespace Assignment1
 		private int age;
 		private bool isFemale;
 
-		public void ReadUserInfo()
+		public void ReadAndSavePetData()
 		{
 			Console.WriteLine("Enter Pet's Name:");
 			name = Console.ReadLine();
@@ -30,11 +31,8 @@ namespace Assignment1
 
 		public void Start()
 		{
-
-			
-			ReadUserInfo();
+			ReadAndSavePetData();
 			DisplayPetInfo();
 		}
 	}
-
 }

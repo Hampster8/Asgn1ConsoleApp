@@ -1,0 +1,14 @@
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/bin/Debug/net7.0/Assignment1ConsoleApps
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/bin/Debug/net7.0/Assignment1ConsoleApps.deps.json
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/bin/Debug/net7.0/Assignment1ConsoleApps.runtimeconfig.json
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/bin/Debug/net7.0/Assignment1ConsoleApps.dll
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/bin/Debug/net7.0/Assignment1ConsoleApps.pdb
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/obj/Debug/net7.0/Assignment1ConsoleApps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/obj/Debug/net7.0/Assignment1ConsoleApps.AssemblyInfoInputs.cache
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/obj/Debug/net7.0/Assignment1ConsoleApps.AssemblyInfo.cs
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/obj/Debug/net7.0/Assignment1ConsoleApps.csproj.CoreCompileInputs.cache
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/obj/Debug/net7.0/Assignment1ConsoleApps.dll
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/obj/Debug/net7.0/refint/Assignment1ConsoleApps.dll
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/obj/Debug/net7.0/Assignment1ConsoleApps.pdb
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/obj/Debug/net7.0/Assignment1ConsoleApps.genruntimeconfig.cache
+/Users/hampusandersson/Desktop/Desktop - Hampus’s MacBook Pro/dotnetProjects/mau/Asgn1ConsoleApp/obj/Debug/net7.0/ref/Assignment1ConsoleApps.dll

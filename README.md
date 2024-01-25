@@ -21,7 +21,7 @@ This is a console application for testing various classes including Pet, TicketS
    - Use the `cd` command to navigate to the directory where you extracted the project. For example:
    
 ```bash
-cd path/to/assignment1-console-app
+cd path/to/Asgn1ConsoleApp
 ```
 
 

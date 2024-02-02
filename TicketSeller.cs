@@ -7,6 +7,7 @@ namespace Assignment1
 		private const double AdultTicketPrice = 100.0; // Example price, tinker with for customization
 		private const double ChildDiscount = 0.25; // 25% discount for children
 
+		private string name;
 		private int numOfAdults;
 		private int numOfChildren;
 		private double amountToPay;
@@ -22,6 +23,9 @@ namespace Assignment1
 		// Method to read ticket information
 		private void ReadInput()
 		{
+			Console.WriteLine("Enter the name of the ticket seller:");
+			name = Console.ReadLine();
+
 			Console.WriteLine("Enter the number of adult tickets sold:");
 			numOfAdults = int.Parse(Console.ReadLine());
 
@@ -39,7 +43,7 @@ namespace Assignment1
 		// Method to display sales information
 		private void ShowResults()
 		{
-			Console.WriteLine("Sales Information:");
+			Console.WriteLine($"Sales Information for {name}:"); // Display the user's name
 			Console.WriteLine($"Adult tickets sold: {numOfAdults}");
 			Console.WriteLine($"Child tickets sold: {numOfChildren}");
 			Console.WriteLine($"Amount to pay: ${amountToPay:F2}");
